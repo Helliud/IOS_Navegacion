@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3DB0911B233AB4F200AFD475 /* DetallesMateria.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB0911A233AB4F200AFD475 /* DetallesMateria.swift */; };
 		3DC287F2233969F5004D8191 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC287F1233969F5004D8191 /* AppDelegate.swift */; };
 		3DC287F4233969F5004D8191 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DC287F3233969F5004D8191 /* ViewController.swift */; };
 		3DC287F7233969F6004D8191 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DC287F5233969F6004D8191 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3DB0911A233AB4F200AFD475 /* DetallesMateria.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetallesMateria.swift; sourceTree = "<group>"; };
 		3DC287EE233969F5004D8191 /* Navegacion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Navegacion.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DC287F1233969F5004D8191 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DC287F3233969F5004D8191 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				3DC287FD233969F8004D8191 /* Info.plist */,
 				3DC2881F233970E4004D8191 /* Materia.swift */,
 				3DC288212339722D004D8191 /* calificacionesController.swift */,
+				3DB0911A233AB4F200AFD475 /* DetallesMateria.swift */,
 			);
 			path = Navegacion;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				3DC287F2233969F5004D8191 /* AppDelegate.swift in Sources */,
 				3DC288222339722D004D8191 /* calificacionesController.swift in Sources */,
 				3DC28820233970E4004D8191 /* Materia.swift in Sources */,
+				3DB0911B233AB4F200AFD475 /* DetallesMateria.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
